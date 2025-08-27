@@ -1,6 +1,3 @@
-<!-- Banner -->
-![Banner](https://i.ibb.co/pJx0Qch/github-banner.png) <!-- Replace with your own banner -->
-
 <!-- Typing Intro -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi+There!+👋;I'm+Yuvaraj+P;Backend+Developer+%7C+Spring+Boot+%7C+Java;Building+Projects+with+🔥+Passion;Always+Learning+%26+Exploring+New+Tech!)](https://git.io/typing-svg)
 
