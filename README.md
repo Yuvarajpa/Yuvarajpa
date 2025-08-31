@@ -27,7 +27,7 @@
 - Full-stack CRUD application with REST APIs.  
 - Features: Add, Update, Delete, View employee records.  
 - Persistent storage with MySQL.  
-🔗 [GitHub Repo](https://github.com/Yuvarajpa/Employee-Management-System) | [Live Demo](https://employee-portal-yuvaraj.netlify.app/)  
+🔗 [GitHub Repo](https://github.com/Yuvarajpa/Employee-Management) | [Live Demo](https://employee-portal-yuvaraj.netlify.app/)  
 
 ---
 
